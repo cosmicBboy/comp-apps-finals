@@ -1,3 +1,48 @@
+# lecture 24, NYeC, SHIN-NY, 
+
+## two shifts in NYC healthcare
+* lowering the number of uninsured
+* shift from fee for service to collaborative care payment and delivery model
+
+## why does this matter?
+* HIT opportunity, new IT tools to communicate and automate workflow
+* millions of patients, some newly insured are encouraged to become proactive and engaged in health
+* NYC healthcare market is remaking itself over the course of five years
+
+## meaningful use
+* set of guidelines, three stages, setup, data gathering, data sharing, clinical outcomes, early adopters get paid more
+* 1.3 billion invested into SHIN-NY
+
+## SHIN-NY system
+* how to coordinate care, broad access to patient information
+* secure messages, HIPAA compliance
+* notification alerting and monitoring
+* cross community care plan management tools 
+* patient access to own health information and engaging consumer level health tools
+* analytics to help manage and measure the healthcare system, can't improve what you haven't measured
+
+## public utility
+* middle ground as a quasi-governmental entity
+* support from state government
+* regulation to manage delivery of services and provide legal basis
+* dial-tone services
+
+## opt-in
+* New York is an opt-in state
+* no good reason for the opt-in
+
+## patient pull queries
+* more are signing up
+
+## SHIN-NY, e-Collaborative
+* succeeds with the cellphone model
+* economically sensible model for sharing data
+* reduces the cost of transaction
+* uses patient data available to the network
+* patterns of care that were good, not good, and emphasize the right ones
+
+---
+
 # lecture 23 ted shortliff
 
 # exam
