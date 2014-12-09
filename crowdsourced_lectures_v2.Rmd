@@ -11,6 +11,8 @@ output:
 
 # Lecture 24, NYeC, SHIN-NY, 
 
+##[Slides]()
+
 ## two shifts in NYC healthcare
 * lowering the number of uninsured
 * shift from fee for service to collaborative care payment and delivery model
@@ -56,6 +58,8 @@ output:
 
 # Lecture 23 ted shortliff
 
+##[Slides]()
+
 ## exam
 * almost no one looks at the book
 * what have you learned?
@@ -78,9 +82,13 @@ output:
 
 # Lecture 22, careers in informatics, bob sideli
 
+##[Slides](http://bit.ly/1yNiiXl)
+
 ---
 
 # Lecture 21, molecular epidemiology, clonal evolution, hossein khiabanian
+
+##[Slides](http://bit.ly/1yNi6Y7)
 
 ## molecular epidemiology
 * evolution of disease causing organisms
@@ -119,6 +127,8 @@ output:
 ---
 
 # Lecture 20, system biology, aris floratos
+
+##[Slides](http://bit.ly/1yNigie)
 
 ## systems biology
 1. integrate complexity in a dynamically changing environment
@@ -170,6 +180,8 @@ output:
 
 # Lecture 19, management and use of biomedical data, karthik natarajan
 
+##[Slides](http://bit.ly/1yNhUYQ)
+
 ## collection of data
 * outpatient data
     * visit, weight, blood pressure, urine, ultrasound, fetal heart monitor
@@ -210,6 +222,8 @@ output:
 
 # Lecture 18, biological databases, richard friedman
 
+##[Slides](http://bit.ly/1yNhEce)
+
 ## biology review
 * refer to slides (DNA, RNA, protein function, nucleotides, codons)
 * variance in the human genome
@@ -218,6 +232,8 @@ output:
 ---
 
 # Lecture 17 human-computer interactions (HCI), lena mamykina
+
+##[Slides]()
 
 ## origins
 * 1940s, focus on human-technology interaction came from need for more automated fighter planes, unfortunately, there was a lot of conflicting noise
@@ -312,6 +328,8 @@ output:
 
 # Lecture 16, cognitive issues in informatics, vimla patel
 
+##[Slides](http://bit.ly/1yNhEJo)
+
 ## cognitive and social sciences
 * cognitive science, multidisciplinary field incorporating theories and methods from psychology,linguistics, philosophy, anthropology, and computer science in the investigation of cognitive processes in human beings and machines
 * interdisciplinary field comprising of cognitive and information sciences, with a focus on human cognition, mechanisms and processes, and the design of interventional solutions (often engineering and information technology related) that can improve human activities
@@ -365,6 +383,8 @@ output:
 
 # Lecture 15, health IT policy and politics, david liss
 
+##[Slides](http://bit.ly/1yNhf9R)
+
 ## HIT and federal health policy
 * different goals of policy makers
 * expectations of policy makers for the next set of employers
@@ -411,6 +431,8 @@ output:
 ---
 
 # Lecture 14, health information exchange, gil kuperman
+
+##[Slides]()
 
 ## health information exchange
 * clinician transfer patient to another setting
@@ -473,6 +495,8 @@ output:
 
 # Lecture 13, public health informatics, rita kukafka
 
+##[Slides](http://bit.ly/1yNhGRv)
+
 ## population health
 * individual health vs population health
 * population health perspective
@@ -514,6 +538,8 @@ output:
 ---
 
 # Lecture 12, clinical research informatics (CRI), chunhua weng
+
+##[Slides](http://bit.ly/1yNirdk)
 
 ## clinical research & patient care state
 * need to accelerate research: bench to bedside
@@ -590,6 +616,8 @@ output:
 
 # Lecture 11, secondary use & predictive analytics, george hripcsak
 * George Hripcsak was the lead designer of the Arden syntax
+
+##[Slides](http://bit.ly/1yNgTQq)
 
 ## purpose
 * how do you take data from database and do research with that? what are the problems you encounter?
@@ -850,6 +878,8 @@ correspondence between aldactone and hypokalemia
 
 # Lecture 10, natural language processing, carol friedman
 
+##[Slides](http://bit.ly/1yNhwJP)
+
 ## goals of NLP
 * process text info using linguistic knowledge
 * capture massive amounts of information
@@ -958,6 +988,8 @@ challenges
 
 # Lecture 9, technology for patients and health consumers, noemie elhadad
 
+##[Slides](http://bit.ly/1yNgXQd)
+
 ## patients taking charge of health
 * participatory medicine
     * patient engagement
@@ -1027,6 +1059,8 @@ challenges
 
 # Lecture 8, clinical decision support, herb chase
 
+##[Slides](http://bit.ly/1yNgBsZ)
+
 ## in the news
 * clinical decision support tool helps pediatricians prioritize guidelines, ultimately improving screening for developmental delay in children 
 
@@ -1095,6 +1129,8 @@ challenges
 ---
 
 # Lecture 7, probability theory and decision making, david vawdrey
+
+##[Slides]()
 
 ## patient diagnosis and the probability problem
 * hence why med language is very conservative ("likely", "moderate", "probable")
@@ -1211,6 +1247,8 @@ doctors often do not realize that p(d+|t+) is not p(t+|d+).
 ---
 
 # Lecture 6, informatics in global health, olivia velez
+
+##[Slides](http://bit.ly/1yNgBcv)
 
 ## dissertation
 * design and usability of a mobile health application for midwives in rural ghana
@@ -1367,6 +1405,8 @@ results
 
 # Lecture 5, standards, virginia lorenzi
 
+##[Slides](http://bit.ly/1yNgJbP)
+
 ## why are standards important? 
 * useful when things can be reused, shared with others
 * promote interoperability and connect things
@@ -1497,11 +1537,15 @@ story of 3 standards
 
 ---
 
-# Lecture 4, clinical information systems I (repeat), david vawdrey 
+# Lecture 4, clinical information systems I (repeat), david vawdrey
+
+##[Slides](http://bit.ly/1yNgSMy)
 
 ---
 
 # Lecture 3, culture of healthcare, peter stetson 
+
+##[Slides](http://bit.ly/1yNgldq)
 
 ## background
 * not a linear relationship between cost and efficiency
@@ -1573,6 +1617,8 @@ story of 3 standards
 
 # Lecture 2, clinical information systems I, david vawdrey
 
+##[Slides](http://bit.ly/1yNh6mR)
+
 ## EHR facts, benefits, future, barriers, adoption, cost-benefit
 * refer to slides
 
@@ -1605,6 +1651,8 @@ story of 3 standards
 ---
 
 # Lecture 1, intro to biomedical informatics, david vawdrey
+
+## [Slides](http://bit.ly/1yNg7mq)
 
 ## informatics
 * science of processing data for storage and retrieval, information science
