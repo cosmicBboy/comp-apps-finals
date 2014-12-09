@@ -7,6 +7,8 @@ output:
     toc_depth: 1
 ---
 
+---
+
 # Lecture 24, NYeC, SHIN-NY, 
 
 ## two shifts in NYC healthcare

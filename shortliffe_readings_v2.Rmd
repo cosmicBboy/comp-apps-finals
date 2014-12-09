@@ -1,5 +1,5 @@
 ---
-title: "Crowdsourced Lecture Notes"
+title: "Shortliffe Readings"
 output:
   html_document:
     toc: true
@@ -7,25 +7,25 @@ output:
     toc_depth: 2
 ---
 
-#Shortliffe Readings
+---
 
-#Chapter 1
+#Chapter 1 [Text](http://bit.ly/1yN9sZq)
 
 ---
 
-#Chapter 2
+#Chapter 2 [Text](http://bit.ly/1wdtWsc)
 
 ---
 
-#Chapter 3
+#Chapter 3 [Text](http://bit.ly/1yN9JM9)
 
 ---
 
-#Chapter 4
+#Chapter 4 [Text](http://bit.ly/1wdufmW)
 
 ---
 
-#Chapter 5
+#Chapter 5 [Text](http://bit.ly/1yN9X5S)
 
 ## hardware
 * CPU, GPU
@@ -65,7 +65,8 @@ output:
 * more stuff on networks
 
 ---
-#Chapter 6
+
+#Chapter 6 [Text](http://bit.ly/1yNaXXB)
 
 ## software in healthcare
 * electronic health records
@@ -108,7 +109,8 @@ health initiatives
 * HTTP, XML languages, HL7 standards
 
 ---
-#Chapter 7
+
+#Chapter 7 [Text](http://bit.ly/1GgnC5M)
 
 ## need and early use of standards
 * standards developmental organizations (HL7, EDFACT, ASC X12N)
@@ -167,7 +169,8 @@ health initiatives
 * just the beginning
 
 ---
-#Chapter 8
+
+#Chapter 8 [Text](http://bit.ly/1yNb05W)
 
 ## natural language processing
 * display information in text with high validity and reliability
@@ -216,7 +219,8 @@ health initiatives
 * reliance on medical knowledge and reasoning
 
 ---
-#Chapter 12
+
+#Chapter 12 [Text](http://bit.ly/1yNbJ71)
 
 ## electronic health record
 * repository of electronically maintained information about individual status and health care
@@ -285,46 +289,46 @@ health initiatives
 
 ---
 
-#Chapter 13
+#Chapter 13 [Text](http://bit.ly/1Ggokjl)
 
 ---
 
-#Chapter 14
+#Chapter 14 [Text](http://bit.ly/1GgnSBQ)
 
 ---
 
-#Chapter 15
+#Chapter 15 [Text](http://bit.ly/1GgnR0N)
 
 ---
 
-#Chapter 16
+#Chapter 16 [Text](http://bit.ly/1GgnWS1)
 
 ---
 
-#Chapter 17
+#Chapter 17 [Text](http://bit.ly/1Ggokjl)
 
 ---
 
-#Chapter 22
+#Chapter 22 [Text](http://bit.ly/1yNbuJ3)
 
 ---
 
-#Chapter 24
+#Chapter 24 [Text](http://bit.ly/1Ggok2X)
 
 ---
 
-#Chapter 25
+#Chapter 25 [Text](http://bit.ly/1GgolE5)
 
 ---
 
-#Chapter 26
+#Chapter 26 [Text](http://bit.ly/1yNbyZt)
 
 ---
 
-#Chapter 27
+#Chapter 27 [Text](http://bit.ly/1yNbAAz)
 
 ---
 
-#Chapter 28
+#Chapter 28 [Text](http://bit.ly/1GgogA4)
 
 ---
