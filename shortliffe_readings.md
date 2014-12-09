@@ -1,0 +1,293 @@
+# chapter 1
+
+---
+
+# chapter 2
+
+---
+
+# chapter 3
+
+---
+
+# chapter 4
+
+---
+
+# chapter 5
+
+## hardware
+* CPU, GPU
+    * bit storage
+    * binary code
+    * unicode
+* memory, storage, input/output
+    * bytes, MB, TB
+    * RAM/ROM
+    * mouse, trackpad
+    * LCD, LED, printers
+* communication, data buses
+    * images, telephone, integrated services
+    * internet, frame relay, WAN, LAN, ATM
+    * protocols, packets
+* parallel processing
+
+## data acquisition
+* real time sampling
+* filtering algorithms reduce noise
+* shielding of cables
+
+## internet communication
+* TCP/IP
+* ICANN
+* internet address
+* domain name system
+* ISP, internet service provider
+* network access provider
+
+## programming languages
+* we know this stuff
+
+## data management operating systems
+* application programs
+* database management systems
+* more stuff on networks
+
+---
+
+# chapter 6
+
+## software in healthcare
+* electronic health records
+* patient portals
+* health information exchange
+
+## software functions
+1. acquiring and storing data
+2. summarizing and displaying data
+3. facilitating communication and information
+exchange
+4. generating alerts, reminders, and other forms
+of decision support
+5. supporting educational, research, and public
+health initiatives
+6. software designed around care requirements
+
+## communication of data
+* summarizing
+* statistics
+* alerts
+* CPOE
+* decision support
+* public health surveillance
+
+## integrating and testing
+* disruptive technology and innovation
+* waterfall vs agile methods
+
+## meaningful use
+* integrated delivery systems
+* laboratory information
+* pharmacy information
+* radiology information
+
+## systems
+* custom systems on top of commercial systems
+* software as a service
+* cloud computing
+* HTTP, XML languages, HL7 standards
+
+---
+
+# chapter 7
+
+## need and early use of standards
+* standards developmental organizations (HL7, EDFACT, ASC X12N)
+* need for patient recognition across systems
+* deidentification is a pretty big issue
+
+## settings where standards are needed
+* methods of transfer are needed
+* security is also needed
+
+## standards development process
+* what must it do?
+* scope of it?
+* gap-standards are also needed
+* need dedicated volunteers over years
+* open standards development policy
+* several paths to maturity
+* start with a draft standard for trial use, implemented by some vendors
+
+## data standards organizations
+* ISO technical committees, advisory group to determine overall standards
+* CEN, European committee for standardization, develops standards for healthcare informatics
+* pg. 242 list of standards organizations
+* HL7 was founded to exchange clinical data
+* IHE, integrating health care enterprise is to stimulate the production of health care information resources
+* ASTM, American society for testing and materials, development of standards for performance materials
+
+## structure and coded data
+* standards ignored all too often
+* SNOMED-CT should be used, removes the ambiguity that exists if the list of codes is used as a representation of findings
+* pre-coordination and post-coordination, different ways of measurement
+* pg. 247 detailed clinical models
+* abstraction and classification to lable data
+* representation to extract as much as possible
+* DRG codes and ICD-9
+
+## mental and nursing terminology, radiology terms
+* pg. 250-257
+
+## data interchange factors
+* meta-tagging elements
+* position based syntax
+
+## HL7
+* trigger model, defined for various trigger events
+* clinical document architecture standard hs become globally adopted for a broad range of use.
+* FHIR (fast health care interoperability resources), overcome the complexity of development based on the HL7 reference model
+* based on reference information model (RIM)
+
+## future direction
+* use of data by multiple stakeholders
+* expansion of types of data to be included in the EHR
+* mobile health
+* planning of systems, usability standards, and standards in general
+* privacy and security will also be difficult
+* just the beginning
+
+---
+
+# chapter 8
+
+## natural language processing
+* display information in text with high validity and reliability
+* knowledge discovery across articles, forums, text
+* reviewing the patient chart
+* aggregate and consolidate information across notes and reports
+* bridge the gap between unstructured text and data by transforming the text to data
+
+## NLP
+* processing of unstructured text, minimal linguistic knowledge, based solely on the presnce of words in the text
+* bag of words, key word approach
+* machine learning method that uses words independently of each other
+* discrete symbols (words)
+* grammar (rules)
+* represent this in a logical format
+
+## applications
+* question answering
+* information extraction and retrieval
+* relations among named entities
+* modifiers of interest
+* text summarization
+* text generation
+* machine translation
+* sentiment analysis and emotion detection
+* semantic relations
+
+## techniques
+* tokenization 
+* low-level text processing
+* character encoding
+* document structure (ASCII)
+* syntactic parsing and chunking
+* semantic analysis, interpretation assigned to individual words, combined into larger semantic structures
+* word sense interpretation
+* interpretation of relations among words
+
+## challenges
+* implicit challenges
+* system interoperability
+* misspellings and typographical errors
+* domain specific characteristics in the lexicon, subdomains too
+* complex and dynamic language in biology and medicine
+* polysemy, names that are the same but represent something different
+* expressiveness vs ease of access
+* reliance on medical knowledge and reasoning
+
+---
+
+# chapter 9
+
+---
+
+# chapter 10
+
+---
+
+# chapter 11
+
+---
+
+# chapter 12
+
+## electronic health record
+* repository of electronically maintained information about individual status and health care
+* legibility, accessibility, validity checks, comprehensiveness of information, use and retention of data, structure of data
+* meaningful use requires LOINC, SNOMED-CT standards
+
+## five functional components
+* integrated view of patient data
+* clinician order entry
+* clinical decision support
+* access to knowledge resources
+* integrated communication and reporting support
+
+## clinician order entry
+* point of care entry
+* improve healthcare
+* alerts and information input
+
+# clinical decision support
+* improves care process
+* identify patients who are not reaching treatment targets
+* past due for immunizations
+* schedule an appointment
+* convenient point to offer reminders about tests or treatments
+* reminder alerts in outpatient settings
+
+## access to knowledge resources
+* links to PubMed, MedlinePlus, CDC
+* Infobuttons present information to the clinician on the fly
+
+## issues
+* data capture, interfacing from systems or manual data entry
+* how to consolidate many different sources of data
+* manual data entry may be misleading or incorrect
+* physician entered data must be commented
+* should the entries be free text or should they be coded?
+* NLP may help with automatic encoding of narrative text
+* dictation with transcription is common as well
+* speech recognition as a alternative
+
+## data validation
+* validity checks must be implemented
+* range checks can also be implemented
+* pattern checks, data has pattern
+* computed checks, values have correct mathematical relationship
+* consistency checks, detect errors by comparing entered data
+* delta checks, large and unlikely differences
+* spelling checks
+
+## data display
+* deployment to PC or smart devices
+* timeline graphs
+* timeline flowsheets
+* summaries and snapshots
+* dynamic search function
+* query and surveillance systems
+
+## challenges ahead
+* usability
+* standards
+* user information
+* user control
+* privacy and security
+* costs and benefits
+* leadership
+
+---
+
+# chapter 13
