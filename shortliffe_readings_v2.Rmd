@@ -1,12 +1,25 @@
+---
+title: "Crowdsourced Lecture Notes"
+output:
+  html_document:
+    toc: true
+    theme: united
+    toc_depth: 2
+---
+
 #Shortliffe Readings
 
 #Chapter 1
+
 ---
 #Chapter 2
+
 ---
 #Chapter 3
+
 ---
 #Chapter 4
+
 ---
 #Chapter 5
 
@@ -218,7 +231,7 @@ health initiatives
 * improve healthcare
 * alerts and information input
 
-# clinical decision support
+## clinical decision support
 * improves care process
 * identify patients who are not reaching treatment targets
 * past due for immunizations
@@ -268,24 +281,36 @@ health initiatives
 
 ---
 #Chapter 13
+
 ---
+
 #Chapter 14
+
 ---
 #Chapter 15
+
 ---
 #Chapter 16
+
 ---
 #Chapter 17
+
 ---
 #Chapter 22
+
 ---
 #Chapter 24
+
 ---
 #Chapter 25
+
 ---
 #Chapter 26
+
 ---
 #Chapter 27
+
 ---
 #Chapter 28
+
 ---
