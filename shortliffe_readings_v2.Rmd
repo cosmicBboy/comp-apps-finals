@@ -9,23 +9,49 @@ output:
 
 ---
 
-#Chapter 1 [Text](http://bit.ly/1yN9sZq)
+# Chapter 1 [Text](http://bit.ly/1yN9sZq)
+
+## informatics revolution comes to medicine
+## integrated access to clinical information
+## beyond the paper record
+## EHRs for the future
+## implications for the internet
+## U.S government steps in
+## biomedical informatics as basic science
 
 ---
 
-#Chapter 2 [Text](http://bit.ly/1wdtWsc)
+# Chapter 2 [Text](http://bit.ly/1wdtWsc)
+
+## biomedical data, storage and use
+## clinical data
+## uses of data
+## collection of data
+## hypothetico-deductive approach
 
 ---
 
-#Chapter 3 [Text](http://bit.ly/1yN9JM9)
+# Chapter 3 [Text](http://bit.ly/1yN9JM9)
+
+## biomedical decision making, probabilistic clinical reasoning
+## uncertainty in diagnosis
+## decision making
+## subjective probability assessment
+## measurement of operating characteristics
+## specificity, sensitivity
+## test performance
+## bias
+## bayes theorem
+## markov models
+
 
 ---
 
-#Chapter 4 [Text](http://bit.ly/1wdufmW)
+# Chapter 4 [Text](http://bit.ly/1wdufmW)
 
 ---
 
-#Chapter 5 [Text](http://bit.ly/1yN9X5S)
+# Chapter 5 [Text](http://bit.ly/1yN9X5S)
 
 ## hardware
 * CPU, GPU
@@ -66,7 +92,7 @@ output:
 
 ---
 
-#Chapter 6 [Text](http://bit.ly/1yNaXXB)
+# Chapter 6 [Text](http://bit.ly/1yNaXXB)
 
 ## software in healthcare
 * electronic health records
@@ -110,7 +136,7 @@ health initiatives
 
 ---
 
-#Chapter 7 [Text](http://bit.ly/1GgnC5M)
+# Chapter 7 [Text](http://bit.ly/1GgnC5M)
 
 ## need and early use of standards
 * standards developmental organizations (HL7, EDFACT, ASC X12N)
@@ -170,7 +196,7 @@ health initiatives
 
 ---
 
-#Chapter 8 [Text](http://bit.ly/1yNb05W)
+# Chapter 8 [Text](http://bit.ly/1yNb05W)
 
 ## natural language processing
 * display information in text with high validity and reliability
@@ -220,7 +246,7 @@ health initiatives
 
 ---
 
-#Chapter 12 [Text](http://bit.ly/1yNbJ71)
+# Chapter 12 [Text](http://bit.ly/1yNbJ71)
 
 ## electronic health record
 * repository of electronically maintained information about individual status and health care
@@ -289,39 +315,87 @@ health initiatives
 
 ---
 
-#Chapter 13 [Text](http://bit.ly/1Ggokjl)
+# Chapter 13 [Text](http://bit.ly/1srgoLG)
+
+## health information infrastructure
+## vision and benefits
+## ensuring information in electronic form
+## financial sustainability
+## compliance with standards
 
 ---
 
-#Chapter 14 [Text](http://bit.ly/1GgnSBQ)
+# Chapter 14 [Text](http://bit.ly/1GgnSBQ)
+
+## management of information in healthcare organizations
+## governance
+## care delivery and governance
+## clinical decision support
+## departmental systems
 
 ---
 
-#Chapter 15 [Text](http://bit.ly/1GgnR0N)
+# Chapter 15 [Text](http://bit.ly/1GgnR0N)
+
+## patient centered care systems
+## emergence
+## management
+## delivery system
+## outlook for the future
 
 ---
 
-#Chapter 16 [Text](http://bit.ly/1GgnWS1)
+# Chapter 16 [Text](http://bit.ly/1GgnWS1)
+
+## public health informatics
 
 ---
 
-#Chapter 17 [Text](http://bit.ly/1Ggokjl)
+# Chapter 17 [Text](http://bit.ly/1Ggokjl)
+
+## consumer health informatics and personal health records
+## portals
+## privacy
+## communication
 
 ---
 
-#Chapter 22 [Text](http://bit.ly/1yNbuJ3)
+# Chapter 22 [Text](http://bit.ly/1yNbuJ3)
+
+## clincial decision support systems
+## nature of decision making
+## physician needs
+## principles of CDS system design
+## data validation
+## workflow
 
 ---
 
-#Chapter 24 [Text](http://bit.ly/1Ggok2X)
+# Chapter 24 [Text](http://bit.ly/1Ggok2X)
+
+## bioinformatics
+## gene sequencing
+## implications for clinical informatics
+## structures in biology
+## sequences in biology
+## genome sequencing in biology
+## curse of dimensionality
+## structure databases
 
 ---
 
-#Chapter 25 [Text](http://bit.ly/1GgolE5)
+# Chapter 25 [Text](http://bit.ly/1GgolE5)
+
+## translational bioinformatics
+## differences from traditional informatics
+## data storage
+## translational bioinformatics
+## classification and prediction
+## pharmacogenomics
 
 ---
 
-#Chapter 26 [Text](http://bit.ly/1yNbyZt)
+# Chapter 26 [Text](http://bit.ly/1yNbyZt)
 
 ## clinical research includes
 * patient-oriented mechanisms of human disease
@@ -392,6 +466,14 @@ health initiatives
 
 ---
 
-#Chapter 28 [Text](http://bit.ly/1GgogA4)
+# Chapter 28 [Text](http://bit.ly/1GgogA4)
+
+## future of informatics in biomedicine
+## trend one, biomedical research and clinical care, computationally linked
+## trend two, information is individualized
+## trend three, society is more online and collaborative
+## trend four, EHRs are changing healthcare
+## trend five, data is massive
+## personalized health
 
 ---
