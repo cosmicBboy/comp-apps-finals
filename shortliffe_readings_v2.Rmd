@@ -9,23 +9,23 @@ output:
 
 ---
 
-#Chapter 1 [Text](http://bit.ly/1yN9sZq)
+#1 - Biomedical Informatics Intro | [Text](http://bit.ly/1yN9sZq)
 
 ---
 
-#Chapter 2 [Text](http://bit.ly/1wdtWsc)
+#2 - Biomedical Data | [Text](http://bit.ly/1wdtWsc)
 
 ---
 
-#Chapter 3 [Text](http://bit.ly/1yN9JM9)
+#3 - Biomedical Decision Making | [Text](http://bit.ly/1yN9JM9)
 
 ---
 
-#Chapter 4 [Text](http://bit.ly/1wdufmW)
+#4 - Cognitive Science | [Text](http://bit.ly/1wdufmW)
 
 ---
 
-#Chapter 5 [Text](http://bit.ly/1yN9X5S)
+#5 - Computer Architecture | [Text](http://bit.ly/1yN9X5S)
 
 ## hardware
 * CPU, GPU
@@ -66,7 +66,7 @@ output:
 
 ---
 
-#Chapter 6 [Text](http://bit.ly/1yNaXXB)
+#6 - Software Engineering | [Text](http://bit.ly/1yNaXXB)
 
 ## software in healthcare
 * electronic health records
@@ -110,7 +110,7 @@ health initiatives
 
 ---
 
-#Chapter 7 [Text](http://bit.ly/1GgnC5M)
+#7 - Standards | [Text](http://bit.ly/1GgnC5M)
 
 ## need and early use of standards
 * standards developmental organizations (HL7, EDFACT, ASC X12N)
@@ -170,7 +170,7 @@ health initiatives
 
 ---
 
-#Chapter 8 [Text](http://bit.ly/1yNb05W)
+#8 - Natural Language Processing | [Text](http://bit.ly/1yNb05W)
 
 ## natural language processing
 * display information in text with high validity and reliability
@@ -220,7 +220,7 @@ health initiatives
 
 ---
 
-#Chapter 12 [Text](http://bit.ly/1yNbJ71)
+#12 - Electronic Health Records | [Text](http://bit.ly/1yNbJ71)
 
 ## electronic health record
 * repository of electronically maintained information about individual status and health care
@@ -289,46 +289,46 @@ health initiatives
 
 ---
 
-#Chapter 13 [Text](http://bit.ly/1Ggokjl)
+#13 - Health Information Infrastructure | [Text](http://bit.ly/1Ggokjl)
 
 ---
 
-#Chapter 14 [Text](http://bit.ly/1GgnSBQ)
+#14 - Management of Information in HCOs | [Text](http://bit.ly/1GgnSBQ)
 
 ---
 
-#Chapter 15 [Text](http://bit.ly/1GgnR0N)
+#15 - Patient-Centered Care Systems | [Text](http://bit.ly/1GgnR0N)
 
 ---
 
-#Chapter 16 [Text](http://bit.ly/1GgnWS1)
+#16 - Public Health Informatics | [Text](http://bit.ly/1GgnWS1)
 
 ---
 
-#Chapter 17 [Text](http://bit.ly/1Ggokjl)
+#17 - Consumer Health Informatics and PHRs | [Text](http://bit.ly/1Ggokjl)
 
 ---
 
-#Chapter 22 [Text](http://bit.ly/1yNbuJ3)
+#22 - Clinical Decision-Support Systems | [Text](http://bit.ly/1yNbuJ3)
 
 ---
 
-#Chapter 24 [Text](http://bit.ly/1Ggok2X)
+#24 - Bioinformatics | [Text](http://bit.ly/1Ggok2X)
 
 ---
 
-#Chapter 25 [Text](http://bit.ly/1GgolE5)
+#25 - Translational Bioinformatics | [Text](http://bit.ly/1GgolE5)
 
 ---
 
-#Chapter 26 [Text](http://bit.ly/1yNbyZt)
+#26 - Clinical Research Informatics | [Text](http://bit.ly/1yNbyZt)
 
 ---
 
-#Chapter 27 [Text](http://bit.ly/1yNbAAz)
+#27 - Health Information Techonology Policy | [Text](http://bit.ly/1yNbAAz)
 
 ---
 
-#Chapter 28 [Text](http://bit.ly/1GgogA4)
+#28 - Future of Informatics | [Text](http://bit.ly/1GgogA4)
 
 ---
