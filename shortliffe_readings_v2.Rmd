@@ -323,9 +323,72 @@ health initiatives
 
 #Chapter 26 [Text](http://bit.ly/1yNbyZt)
 
+## clinical research includes
+* patient-oriented mechanisms of human disease
+* epi studies
+* outcomes research
+
+## clinical research informatics
+* evaluation and modeling of clinical research workflow
+* designing optimal human-computer interaction models
+* improving information capture
+* enhancing analysis and dissemination
+
+## types of experiments
+* RCT
+* quasi-experiment
+
+## clinical phases
+* I, evaluation in a small group of participants
+* II, evaluation in a larger group of participants
+* III, even larger group of participants, RCT design
+* IV, performance and safety of novel therapy after it is approved
+
+## phases
+* preparatory
+* active
+* dissemination
+
+## information needs and systems
+* electronic health records
+* bibliographic data bases
+* data warehouses
+* CDSS
+* feasibility analysis applications and data simulation
+
+## reporting requirements and standards
+* common language
+* interlinked management
+
 ---
 
 #Chapter 27 [Text](http://bit.ly/1yNbAAz)
+
+## policy
+* meaningful use
+* hopefully health IT will live up to its goals
+* integration into ACOs
+
+## patient-centric focus
+* personal health records
+* telehealth
+* emerging dichotomy of minority groups
+
+## reducing costs
+* EHRs can reduce costs
+* use health IT to measure quality
+* improve quality measurements
+* improve outcome measurements
+
+## adoption
+* must increase adoption rate of EHRs
+* new payment models of ACOs can accelerate health IT adoption
+* need federal government oversight
+
+## security
+* regulate privacy
+* instill unique health identifiers
+* development of new technologies
 
 ---
 
