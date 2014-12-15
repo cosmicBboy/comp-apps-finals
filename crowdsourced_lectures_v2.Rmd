@@ -11,7 +11,7 @@ output:
 
 # Lecture 24, NYeC, SHIN-NY, 
 
-##[Slides]()
+##[Slides](http://bit.ly/1yNjNEO)
 
 ## two shifts in NYC healthcare
 * lowering the number of uninsured
@@ -58,7 +58,7 @@ output:
 
 # Lecture 23 ted shortliff
 
-##[Slides]()
+#### No Slides
 
 ## exam
 * almost no one looks at the book

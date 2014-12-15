@@ -4,3 +4,4 @@ A compilation of lecture notes and reading notes for the Comp Apps final. The cr
 
 1. Crowdsourced Lectures: [html link](http://htmlpreview.github.io/?https://github.com/cosmicBboy/comp-apps-finals/blob/master/crowdsourced_lectures_v2.html)
 2. Shortliffe Readings: [html link](http://htmlpreview.github.io/?https://github.com/cosmicBboy/comp-apps-finals/blob/master/shortliffe_readings_v2.html)
+3. Homeworks (NB): [1](https://docs.google.com/document/d/1SsKJxlUv7tfG0vF_r9V90ys_HzmOxwAuyK0sWCtDYPc/pub) | [2](https://docs.google.com/document/d/1bTnVwukhm88hX2FdekNtfMx7XOFhD7oOTAtmdrX0fZc/pub) | [3](https://docs.google.com/document/d/1N4PeOxspSeR7WXvC9F-MzANtz5JWMDWWGNDuGm_HIxo/pub) | [4](https://docs.google.com/document/d/1PT2Wli6WwoeeRxXeMdrKn-d9SJFXbqnS4r4HIYN25RE/pub) | [5](https://docs.google.com/document/d/1aiLQsSmIFfPWi1YpilvLhStPYIZ1y6sO4DYAi1ACm8o/pub) | [6](https://docs.google.com/document/d/1yvcRiBDACbqKARqxXfDZUZ_UTp81Xnf4tCyZ0lbOdAc/pub)
