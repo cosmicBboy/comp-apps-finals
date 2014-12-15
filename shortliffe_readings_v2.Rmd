@@ -7,25 +7,46 @@ output:
     toc_depth: 2
 ---
 
----
+# 1 - Biomedical Informatics Intro | [Text](http://bit.ly/1yN9sZq)
 
-#1 - Biomedical Informatics Intro | [Text](http://bit.ly/1yN9sZq)
-
----
-
-#2 - Biomedical Data | [Text](http://bit.ly/1wdtWsc)
-
----
-
-#3 - Biomedical Decision Making | [Text](http://bit.ly/1yN9JM9)
+## informatics revolution comes to medicine
+## integrated access to clinical information
+## beyond the paper record
+## EHRs for the future
+## implications for the internet
+## U.S government steps in
+## biomedical informatics as basic science
 
 ---
 
-#4 - Cognitive Science | [Text](http://bit.ly/1wdufmW)
+# 2 - Biomedical Data | [Text](http://bit.ly/1wdtWsc)
+
+## clinical data
+## uses of data
+## collection of data
+## hypothetico-deductive approach
 
 ---
 
-#5 - Computer Architecture | [Text](http://bit.ly/1yN9X5S)
+# 3 - Biomedical Decision Making | [Text](http://bit.ly/1yN9JM9)
+
+## uncertainty in diagnosis
+## decision making
+## subjective probability assessment
+## measurement of operating characteristics
+## specificity, sensitivity
+## test performance
+## bias
+## bayes theorem
+## markov models
+
+---
+
+# 4 - Cognitive Science | [Text](http://bit.ly/1wdufmW)
+
+---
+
+# 5 - Computer Architecture | [Text](http://bit.ly/1yN9X5S)
 
 ## hardware
 * CPU, GPU
@@ -66,7 +87,7 @@ output:
 
 ---
 
-#6 - Software Engineering | [Text](http://bit.ly/1yNaXXB)
+# 6 - Software Engineering | [Text](http://bit.ly/1yNaXXB)
 
 ## software in healthcare
 * electronic health records
@@ -110,7 +131,7 @@ health initiatives
 
 ---
 
-#7 - Standards | [Text](http://bit.ly/1GgnC5M)
+# 7 - Standards | [Text](http://bit.ly/1GgnC5M)
 
 ## need and early use of standards
 * standards developmental organizations (HL7, EDFACT, ASC X12N)
@@ -170,7 +191,7 @@ health initiatives
 
 ---
 
-#8 - Natural Language Processing | [Text](http://bit.ly/1yNb05W)
+# 8 - Natural Language Processing | [Text](http://bit.ly/1yNb05W)
 
 ## natural language processing
 * display information in text with high validity and reliability
@@ -220,7 +241,7 @@ health initiatives
 
 ---
 
-#12 - Electronic Health Records | [Text](http://bit.ly/1yNbJ71)
+# 12 - Electronic Health Records | [Text](http://bit.ly/1yNbJ71)
 
 ## electronic health record
 * repository of electronically maintained information about individual status and health care
@@ -289,46 +310,154 @@ health initiatives
 
 ---
 
-#13 - Health Information Infrastructure | [Text](http://bit.ly/1Ggokjl)
+# 13 - Health Information Infrastructure | [Text](http://bit.ly/1srgoLG)
+
+## vision and benefits
+## ensuring information in electronic form
+## financial sustainability
+## compliance with standards
 
 ---
 
-#14 - Management of Information in HCOs | [Text](http://bit.ly/1GgnSBQ)
+# 14 - Management of Information in HCOs | [Text](http://bit.ly/1GgnSBQ)
+
+## governance
+## care delivery and governance
+## clinical decision support
+## departmental systems
 
 ---
 
-#15 - Patient-Centered Care Systems | [Text](http://bit.ly/1GgnR0N)
+# 15 - Patient-Centered Care Systems | [Text](http://bit.ly/1GgnR0N)
+
+## emergence
+## management
+## delivery system
+## outlook for the future
 
 ---
 
-#16 - Public Health Informatics | [Text](http://bit.ly/1GgnWS1)
+# 16 - Public Health Informatics | [Text](http://bit.ly/1GgnWS1)
 
 ---
 
-#17 - Consumer Health Informatics and PHRs | [Text](http://bit.ly/1Ggokjl)
+# 17 - Consumer Health Informatics and PHRs | [Text](http://bit.ly/1Ggokjl)
+
+## portals
+## privacy
+## communication
+---
+
+# 22 - Clinical Decision-Support Systems | [Text](http://bit.ly/1yNbuJ3)
+
+## nature of decision making
+## physician needs
+## principles of CDS system design
+## data validation
+## workflow
 
 ---
 
-#22 - Clinical Decision-Support Systems | [Text](http://bit.ly/1yNbuJ3)
+# 24 - Bioinformatics | [Text](http://bit.ly/1Ggok2X)
+
+## gene sequencing
+## implications for clinical informatics
+## structures in biology
+## sequences in biology
+## genome sequencing in biology
+## curse of dimensionality
+## structure databases
 
 ---
 
-#24 - Bioinformatics | [Text](http://bit.ly/1Ggok2X)
+# 25 - Translational Bioinformatics | [Text](http://bit.ly/1GgolE5)
+
+## differences from traditional informatics
+## data storage
+## translational bioinformatics
+## classification and prediction
+## pharmacogenomics
 
 ---
 
-#25 - Translational Bioinformatics | [Text](http://bit.ly/1GgolE5)
+# 26 - Clinical Research Informatics | [Text](http://bit.ly/1yNbyZt)
+
+## clinical research includes
+* patient-oriented mechanisms of human disease
+* epi studies
+* outcomes research
+
+## clinical research informatics
+* evaluation and modeling of clinical research workflow
+* designing optimal human-computer interaction models
+* improving information capture
+* enhancing analysis and dissemination
+
+## types of experiments
+* RCT
+* quasi-experiment
+
+## clinical phases
+* I, evaluation in a small group of participants
+* II, evaluation in a larger group of participants
+* III, even larger group of participants, RCT design
+* IV, performance and safety of novel therapy after it is approved
+
+## phases
+* preparatory
+* active
+* dissemination
+
+## information needs and systems
+* electronic health records
+* bibliographic data bases
+* data warehouses
+* CDSS
+* feasibility analysis applications and data simulation
+
+## reporting requirements and standards
+* common language
+* interlinked management
 
 ---
 
-#26 - Clinical Research Informatics | [Text](http://bit.ly/1yNbyZt)
+# 27 - Health Information Techonology Policy | [Text](http://bit.ly/1yNbAAz)
+
+## policy
+* meaningful use
+* hopefully health IT will live up to its goals
+* integration into ACOs
+
+## patient-centric focus
+* personal health records
+* telehealth
+* emerging dichotomy of minority groups
+
+## reducing costs
+* EHRs can reduce costs
+* use health IT to measure quality
+* improve quality measurements
+* improve outcome measurements
+
+## adoption
+* must increase adoption rate of EHRs
+* new payment models of ACOs can accelerate health IT adoption
+* need federal government oversight
+
+## security
+* regulate privacy
+* instill unique health identifiers
+* development of new technologies
 
 ---
 
-#27 - Health Information Techonology Policy | [Text](http://bit.ly/1yNbAAz)
+# 28 - Future of Informatics | [Text](http://bit.ly/1GgogA4)
 
----
-
-#28 - Future of Informatics | [Text](http://bit.ly/1GgogA4)
+## trend one, biomedical research and clinical care, computationally linked
+## trend two, information is individualized
+## trend three, society is more online and collaborative
+## trend four, EHRs are changing healthcare
+## trend five, data is massive
+## personalized health
 
 ---
